@@ -6,22 +6,16 @@
 
 ## 🖥 Sobre o projeto
 
----
-
 Este é um desafio proposto no curso Ignite da Rocketseat, onde desenvolvemos uma aplicação React para uma cafeteria fictícia com foco em delivery.
 
 A aplicação conta com diversas funcionalidades, permitindo que o usuário navegue pela lista de produtos disponíveis, adicione itens ao carrinho, preencha um formulário de endereço, visualize o valor total do pedido e finalize a compra.
 
 ## 🎥 Demonstração
 
----
-
 <img src='./src/assets/2.gif'>
 <img src='./src/assets/1.gif'>
 
 ## 📦 Como Executar?
-
----
 
 > Clone o Repositório:
 
@@ -45,8 +39,6 @@ npm run dev
 
 ## 🔨 Tecnologias
 
----
-
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
@@ -56,8 +48,6 @@ npm run dev
 - [react-router-dom](https://reactrouter.com/en/main)
 
 ## Autor
-
----
 
 <a href="https://github.com/timoteo0">
  <img style="" src="https://github.com/timoteo0.png" width="100px;" alt=""/>
